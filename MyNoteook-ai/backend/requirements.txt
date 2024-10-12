@@ -1,0 +1,6 @@
+fastapi==0.95.0            # Web framework for building APIs
+uvicorn==0.21.1           # ASGI server for running FastAPI applications
+pydantic==1.10.4          # Data validation and settings management
+openai==0.27.0            # DeepAI API client
+python-dotenv==1.0.0      # Tool for loading environment variables from .env file
+asyncio                    # Async I/O for Python to handle asynchronous tasks
